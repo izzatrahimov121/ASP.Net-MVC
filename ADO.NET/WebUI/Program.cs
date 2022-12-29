@@ -28,7 +28,7 @@ builder.Services.AddIdentity<AppUser, IdentityRole>(opt =>
 
     opt.Lockout.MaxFailedAccessAttempts= 5;
     opt.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromSeconds(30);
-});
+}).AddEntityFrameworkStores<AppDbContext>();
 
 builder.Services.AddScoped<IShippingItemRepository,ShippingItemRepository>();
 builder.Services.AddScoped<ISlideItemReposiyory,SlideItemRepository>();
@@ -37,7 +37,10 @@ var app = builder.Build();
 
 
 app.UseStaticFiles();
+app.UseSession();
 
+app.UseAuthentication();
+app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "areas",

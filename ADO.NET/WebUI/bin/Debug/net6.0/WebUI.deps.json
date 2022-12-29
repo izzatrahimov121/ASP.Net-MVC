@@ -12,6 +12,7 @@
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.12",
           "Microsoft.EntityFrameworkCore": "6.0.12",
           "Microsoft.EntityFrameworkCore.Design": "6.0.12",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.12",
           "Microsoft.EntityFrameworkCore.Tools": "6.0.12",
           "Microsoft.Extensions.Caching.SqlServer": "6.0.12",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "6.0.11"
@@ -2332,7 +2333,8 @@
       "Core/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Http.Features": "5.0.17",
-          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.12"
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.12",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.12"
         },
         "runtime": {
           "Core.dll": {}
