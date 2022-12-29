@@ -1,10 +1,12 @@
 ﻿using DataAccess.Contexts;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using WebUI.ViewsModels;
 
 namespace WebUI.Areas.Admin.Controllers
 {
 	[Area("Admin")]
+	[Authorize]//login olmayanlari admin panele buraxmayacaq
 	public class DashboardController : Controller
 	{
 

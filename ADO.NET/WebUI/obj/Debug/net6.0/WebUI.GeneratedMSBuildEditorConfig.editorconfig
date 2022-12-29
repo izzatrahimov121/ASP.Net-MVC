@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\ragim\OneDrive\İş masası\ASP.Net-MVC\ADO.NET\WebUI
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/ragim/OneDrive/İş masası/ASP.Net-MVC/ADO.NET/WebUI/Views/Auth/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/ragim/OneDrive/İş masası/ASP.Net-MVC/ADO.NET/WebUI/Views/Auth/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

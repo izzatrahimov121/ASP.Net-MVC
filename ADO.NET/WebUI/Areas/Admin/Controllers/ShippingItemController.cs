@@ -1,11 +1,13 @@
 ﻿using Core.Entities;
 using DataAccess.Contexts;
 using DataAccess.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace WebUI.Areas.Admin.Controllers;
 
 [Area("Admin")]
+[Authorize]//login olmayanlari admin panele buraxmayacaq
 public class ShippingItemController : Controller
 {
 	//private readonly AppDbContext _context;

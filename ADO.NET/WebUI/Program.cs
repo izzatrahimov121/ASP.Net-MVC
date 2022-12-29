@@ -14,6 +14,9 @@ builder.Services.AddDbContext<AppDbContext>(opt =>
 {
     opt.UseSqlServer(constr);
 });
+
+
+
 builder.Services.AddIdentity<AppUser, IdentityRole>(opt =>
 {
     //Password
@@ -28,7 +31,17 @@ builder.Services.AddIdentity<AppUser, IdentityRole>(opt =>
 
     opt.Lockout.MaxFailedAccessAttempts= 5;
     opt.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromSeconds(30);
+    opt.Lockout.AllowedForNewUsers= true;
 }).AddEntityFrameworkStores<AppDbContext>();
+
+builder.Services.AddSession(opt =>
+{
+	opt.IdleTimeout = TimeSpan.FromSeconds(30);
+});
+builder.Services.ConfigureApplicationCookie(opt =>
+{
+    opt.LoginPath = "/Auth/Login";
+});
 
 builder.Services.AddScoped<IShippingItemRepository,ShippingItemRepository>();
 builder.Services.AddScoped<ISlideItemReposiyory,SlideItemRepository>();
