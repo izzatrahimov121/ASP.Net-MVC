@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Flx/Z7V5sPWvI0oYay6SQ/rbQx9XfTJ37WD2Ia6/0cQ=",
+  "Hash": "6x9sA4+JlccNGjgrBpDF5qIbEvBtoFr3cbD0ROi5qfo=",
   "Source": "WebUI",
   "BasePath": "_content/WebUI",
   "Mode": "Default",
@@ -2771,6 +2771,23 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\dark.png"
     },
     {
+      "Identity": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\ADO.NET\\WebUI\\wwwroot\\assets\\images\\website-images\\e327a932-84eb-44a6-9b78-265b1691f8e0slider-1.jpg",
+      "SourceId": "WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\ADO.NET\\WebUI\\wwwroot\\",
+      "BasePath": "_content/WebUI",
+      "RelativePath": "assets/images/website-images/e327a932-84eb-44a6-9b78-265b1691f8e0slider-1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\e327a932-84eb-44a6-9b78-265b1691f8e0slider-1.jpg"
+    },
+    {
       "Identity": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\ADO.NET\\WebUI\\wwwroot\\assets\\images\\website-images\\quotation.png",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
@@ -5217,6 +5234,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets_admin\\pages\\ui-features\\typography.html"
+    },
+    {
+      "Identity": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\ADO.NET\\WebUI\\wwwroot\\assets_admin\\Shared\\_Layout.cshtml",
+      "SourceId": "WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\ADO.NET\\WebUI\\wwwroot\\",
+      "BasePath": "_content/WebUI",
+      "RelativePath": "assets_admin/Shared/_Layout.cshtml",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "wwwroot\\assets_admin\\Shared\\_Layout.cshtml"
     },
     {
       "Identity": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\ADO.NET\\WebUI\\wwwroot\\assets_admin\\sweetalert\\sweetalert2.all.js",

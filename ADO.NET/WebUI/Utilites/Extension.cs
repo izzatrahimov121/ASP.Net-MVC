@@ -2,8 +2,6 @@
 
 public static class Extension
 {
-
-
 	public static bool CheckFileSize(this IFormFile file, int Kbyte)
 	{
 		return file.Length / 1024 <= Kbyte;

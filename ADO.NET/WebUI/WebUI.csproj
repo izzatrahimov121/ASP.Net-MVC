@@ -26,7 +26,6 @@
 
   <ItemGroup>
     <Content Include="Areas\Admin\Views\Dashboard\Index.cshtml" />
-    <Content Include="Areas\Admin\Views\Shared\_Layout.cshtml" />
     <Content Include="Areas\Admin\Views\_ViewStart.cshtml" />
   </ItemGroup>
 
@@ -41,6 +40,7 @@
     <Content Include="Areas\Admin\Views\SlideItem\Detail.cshtml" />
     <Content Include="Areas\Admin\Views\SlideItem\Delete.cshtml" />
     <Content Include="Areas\Admin\Views\SlideItem\Update.cshtml" />
+    <None Include="Areas\Admin\Views\Shared\_Layout.cshtml" />
     <None Include="wwwroot\assets_admin\css\maps\style.css.map" />
     <None Include="wwwroot\assets_admin\documentation\.DS_Store" />
     <None Include="wwwroot\assets_admin\fonts\.DS_Store" />
