@@ -1,0 +1,43 @@
+﻿@model SlideCreateVM
+@{
+    ViewData["Title"] = "Create";
+}
+
+
+<div class="card col-5">
+	<div class="card-body">
+		<h4 class="card-title">Create Slide</h4>
+		<form class="forms-sample" method="post" enctype="multipart/form-data">
+
+			<div class="form-group">
+				<label>Image</label>
+				<input type="file" asp-for="Image" class="form-control" placeholder="Image" accept="image/*">
+				<span class="text-danger" asp-validation-for="Image"></span>
+			</div>
+
+			<div class="form-group">
+				<label>Category</label>
+				<input asp-for="Category" class="form-control" placeholder="Title">
+				<span class="text-danger" asp-validation-for="Category"></span>
+			</div>
+
+			<div class="form-group">
+				<label>Title</label>
+				<input asp-for="Title" class="form-control" placeholder="Title">
+				<span class="text-danger" asp-validation-for="Title"></span>
+			</div>
+
+			<div class="form-group">
+				<label>Description</label>
+				<input asp-for="Description" class="form-control" placeholder="Description">
+				<span class="text-danger" asp-validation-for="Description"></span>
+			</div>
+
+			<button type="submit" class="btn btn-primary mr-2">Submit</button>
+			<button class="btn btn-light">Cancel</button>
+
+		</form>
+	</div>
+</div>
+
+
