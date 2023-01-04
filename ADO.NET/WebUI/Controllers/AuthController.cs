@@ -48,6 +48,8 @@ namespace WebUI.Controllers
 		}
 		#endregion
 
+
+
 		#region LOGIN and LOGOUT
 		public IActionResult Login()
 		{
@@ -70,18 +72,18 @@ namespace WebUI.Controllers
 					return View(loginViewModel);
 				}
 			}
-			var signInResult = await _signInManager.PasswordSignInAsync(user, loginViewModel.Password, (bool)loginViewModel.RememberMe, true);
+			var signInResult = await _signInManager.PasswordSignInAsync(user, loginViewModel.Password, loginViewModel.RememberMe, true);
 			if (signInResult.IsLockedOut)
 			{
 				ModelState.AddModelError("", "Biraz gözle");
 				return View(loginViewModel);
 			}
-			if (signInResult.Succeeded)
+			if (!signInResult.Succeeded)
 			{
 				ModelState.AddModelError("", "Username/Email or Password incorrect");
 				return View(loginViewModel);
 			}
-			if ((bool)!user.IsActive)
+			if (!user.IsActive)
 			{
 				ModelState.AddModelError("", "not found");
 				return View(loginViewModel);
