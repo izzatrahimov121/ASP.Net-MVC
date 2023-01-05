@@ -10,18 +10,17 @@ namespace WebUI.Areas.Admin.Controllers;
 [Authorize(Roles ="Admin")]
 public class UserManagerController : Controller
 {
-	public readonly AppDbContext _context;
-    private readonly DbSet<AppUser> _table;
+	private readonly AppDbContext _context;
+    private readonly UserManager<AppUser> _userManager;
 
-    public UserManagerController(AppDbContext context, DbSet<AppUser> table)
-    {
-        _context = context;
-        _table = _context.Set<AppUser>();
-    }
-
-    public async Task<IActionResult> Index()
+	public UserManagerController(AppDbContext context, UserManager<AppUser> userManager)
 	{
-        //return View(_context.Users);
-        return View(await _table.ToListAsync());
+		_context = context;
+		_userManager = userManager;
+	}
+
+	public async Task<IActionResult> Index()
+	{
+        return View(_userManager.Users);
     }
 }

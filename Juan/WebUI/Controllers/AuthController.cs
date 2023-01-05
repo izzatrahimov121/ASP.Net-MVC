@@ -111,17 +111,17 @@ public class AuthController : Controller
 
 
 	///////////User Roles///////////////////
-	//public async Task<IActionResult> CreateRoles()
-	//{
-	//	foreach (var role in Enum.GetValues(typeof(RoleType)))
-	//	{
-	//		if (!await _roleManager.RoleExistsAsync(role.ToString()))
-	//		{
-	//			await _roleManager.CreateAsync(new IdentityRole(role.ToString()));
-	//		}
-	//	}
+	public async Task<IActionResult> CreateRoles()
+	{
+		foreach (var role in Enum.GetValues(typeof(RoleType)))
+		{
+			if (!await _roleManager.RoleExistsAsync(role.ToString()))
+			{
+				await _roleManager.CreateAsync(new IdentityRole(role.ToString()));
+			}
+		}
 
-	//	return Content("ok");
-	//}
+		return Content("ok");
+	}
 
 }
