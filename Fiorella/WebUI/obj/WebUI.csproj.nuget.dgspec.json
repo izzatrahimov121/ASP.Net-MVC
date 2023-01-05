@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\WebUI.csproj": {}
+    "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\WebUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Izzet\\source\\repos\\Fiorella\\Core\\Core.csproj": {
+    "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\Izzet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\Core\\obj\\",
+        "projectPath": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\ragim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\Core\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Izzet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ragim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -97,17 +101,21 @@
         }
       }
     },
-    "C:\\Users\\Izzet\\source\\repos\\Fiorella\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\Izzet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\ragim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Izzet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ragim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -121,8 +129,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Izzet\\source\\repos\\Fiorella\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\Core\\Core.csproj"
+              "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\Core\\Core.csproj"
               }
             }
           }
@@ -190,17 +198,21 @@
         }
       }
     },
-    "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\WebUI.csproj": {
+    "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\WebUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\WebUI.csproj",
+        "projectUniqueName": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\WebUI.csproj",
         "projectName": "WebUI",
-        "projectPath": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\WebUI.csproj",
-        "packagesPath": "C:\\Users\\Izzet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\obj\\",
+        "projectPath": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\WebUI.csproj",
+        "packagesPath": "C:\\Users\\ragim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Izzet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ragim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -214,8 +226,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Izzet\\source\\repos\\Fiorella\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\DataAccess\\DataAccess.csproj"
               }
             }
           }

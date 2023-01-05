@@ -1,707 +1,1123 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\css\\style.css",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets-login\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\css\\util.css",
+      "PackagePath": "staticwebassets\\assets-login\\css\\util.css"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\iconic\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\iconic\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\iconic\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\iconic\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\poppins\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\poppins\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\poppins\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\poppins\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\poppins\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\poppins\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\poppins\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\poppins\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\poppins\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\poppins\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\poppins\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\poppins\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\poppins\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\poppins\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\poppins\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\poppins\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\poppins\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\poppins\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\poppins\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\poppins\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\poppins\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\poppins\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\poppins\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\poppins\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\poppins\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\poppins\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\fonts\\poppins\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\assets-login\\fonts\\poppins\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\images\\icons\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets-login\\images\\icons\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets-login\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\vendor\\animsition\\css\\animsition.css",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\animsition\\css\\animsition.css"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\vendor\\animsition\\css\\animsition.min.css",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\animsition\\css\\animsition.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\vendor\\animsition\\js\\animsition.js",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\animsition\\js\\animsition.js"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\vendor\\animsition\\js\\animsition.min.js",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\animsition\\js\\animsition.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\vendor\\bootstrap\\js\\popper.js",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\bootstrap\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\vendor\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\vendor\\bootstrap\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\bootstrap\\js\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\vendor\\countdowntime\\countdowntime.js",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\countdowntime\\countdowntime.js"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\vendor\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\css-hamburgers\\hamburgers.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\vendor\\daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\vendor\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\vendor\\daterangepicker\\moment.js",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\daterangepicker\\moment.js"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\vendor\\daterangepicker\\moment.min.js",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\daterangepicker\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\jquery\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\vendor\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\vendor\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\select2\\select2.css"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\vendor\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\select2\\select2.js"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\select2\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets-login\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\assets-login\\vendor\\select2\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\css\\style.css",
       "PackagePath": "staticwebassets\\assets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\css\\style.css.map",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\css\\style.css.map",
       "PackagePath": "staticwebassets\\assets\\css\\style.css.map"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\img\\blog-feature-img-1.jpg",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\img\\5cf1ece2-4284-4e6d-84cf-51b6d9edda8b9.png",
+      "PackagePath": "staticwebassets\\assets\\img\\5cf1ece2-4284-4e6d-84cf-51b6d9edda8b9.png"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\img\\blog-feature-img-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog-feature-img-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\img\\blog-feature-img-3.jpg",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\img\\blog-feature-img-3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog-feature-img-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\img\\blog-feature-img-4.jpg",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\img\\blog-feature-img-4.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog-feature-img-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\img\\favicon.png",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\img\\c0f18c8f-7395-40d0-9193-66e46dda6ca09.png",
+      "PackagePath": "staticwebassets\\assets\\img\\c0f18c8f-7395-40d0-9193-66e46dda6ca09.png"
+    },
+    {
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\img\\favicon.png",
       "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\img\\footer-bottom-1.png",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\img\\footer-bottom-1.png",
       "PackagePath": "staticwebassets\\assets\\img\\footer-bottom-1.png"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\img\\h1-custom-icon.png",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\img\\h1-custom-icon.png",
       "PackagePath": "staticwebassets\\assets\\img\\h1-custom-icon.png"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\img\\h2-sign-img.png",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\img\\h2-sign-img.png",
       "PackagePath": "staticwebassets\\assets\\img\\h2-sign-img.png"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\img\\h3-background-img.jpg",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\img\\h3-background-img.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\h3-background-img.jpg"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\img\\h3-slider-background-2.jpg",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\img\\h3-slider-background-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\h3-slider-background-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\img\\h3-slider-background-3.jpg",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\img\\h3-slider-background-3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\h3-slider-background-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\img\\h3-slider-background.jpg",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\img\\h3-slider-background.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\h3-slider-background.jpg"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\img\\h3-team-img-1.png",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\img\\h3-team-img-1.png",
       "PackagePath": "staticwebassets\\assets\\img\\h3-team-img-1.png"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\img\\h3-team-img-2.png",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\img\\h3-team-img-2.png",
       "PackagePath": "staticwebassets\\assets\\img\\h3-team-img-2.png"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\img\\h3-team-img-3.png",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\img\\h3-team-img-3.png",
       "PackagePath": "staticwebassets\\assets\\img\\h3-team-img-3.png"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\img\\h3-team-img-4.png",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\img\\h3-team-img-4.png",
       "PackagePath": "staticwebassets\\assets\\img\\h3-team-img-4.png"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\img\\h3-video-img.jpg",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\img\\h3-video-img.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\h3-video-img.jpg"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\img\\instagram1.jpg",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\img\\instagram1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\instagram1.jpg"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\img\\instagram2.jpg",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\img\\instagram2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\instagram2.jpg"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\img\\instagram3.jpg",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\img\\instagram3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\instagram3.jpg"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\img\\instagram4.jpg",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\img\\instagram4.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\instagram4.jpg"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\img\\instagram5.jpg",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\img\\instagram5.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\instagram5.jpg"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\img\\instagram6.jpg",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\img\\instagram6.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\instagram6.jpg"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\img\\instagram7.jpg",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\img\\instagram7.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\instagram7.jpg"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\img\\instagram8.jpg",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\img\\instagram8.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\instagram8.jpg"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\img\\logo.png",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\img\\logo.png",
       "PackagePath": "staticwebassets\\assets\\img\\logo.png"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\img\\shop-10-img.jpg",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\img\\shop-10-img.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\shop-10-img.jpg"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\img\\shop-11-img.jpg",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\img\\shop-11-img.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\shop-11-img.jpg"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\img\\shop-12-img.jpg",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\img\\shop-12-img.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\shop-12-img.jpg"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\img\\shop-13-img.jpg",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\img\\shop-13-img.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\shop-13-img.jpg"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\img\\shop-14-img.jpg",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\img\\shop-14-img.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\shop-14-img.jpg"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\img\\shop-7-img.jpg",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\img\\shop-7-img.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\shop-7-img.jpg"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\img\\shop-8-img.jpg",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\img\\shop-8-img.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\shop-8-img.jpg"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\img\\shop-9-img.jpg",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\img\\shop-9-img.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\shop-9-img.jpg"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\img\\shop-category-img-1.jpg",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\img\\shop-category-img-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\shop-category-img-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\img\\shop-category-img-2.jpg",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\img\\shop-category-img-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\shop-category-img-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\img\\shop-category-img-3.jpg",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\img\\shop-category-img-3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\shop-category-img-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\img\\shop-category-img-4.jpg",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\img\\shop-category-img-4.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\shop-category-img-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\img\\shop-category-img-5.jpg",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\img\\shop-category-img-5.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\shop-category-img-5.jpg"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\img\\shop-category-img-6.jpg",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\img\\shop-category-img-6.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\shop-category-img-6.jpg"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\img\\testimonial-img-1.png",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\img\\testimonial-img-1.png",
       "PackagePath": "staticwebassets\\assets\\img\\testimonial-img-1.png"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\img\\testimonial-img-2.png",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\img\\testimonial-img-2.png",
       "PackagePath": "staticwebassets\\assets\\img\\testimonial-img-2.png"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\js\\script.js",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\js\\script.js",
       "PackagePath": "staticwebassets\\assets\\js\\script.js"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\owlcarousel\\owl.carousel.min.css",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\owlcarousel\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\assets\\owlcarousel\\owl.carousel.min.css"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\owlcarousel\\owl.carousel.min.js",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\owlcarousel\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\assets\\owlcarousel\\owl.carousel.min.js"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\owlcarousel\\owl.theme.default.min.css",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\owlcarousel\\owl.theme.default.min.css",
       "PackagePath": "staticwebassets\\assets\\owlcarousel\\owl.theme.default.min.css"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\sass\\lib\\_common.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\sass\\lib\\_common.scss",
       "PackagePath": "staticwebassets\\assets\\sass\\lib\\_common.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\sass\\lib\\_mixins.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\sass\\lib\\_mixins.scss",
       "PackagePath": "staticwebassets\\assets\\sass\\lib\\_mixins.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\sass\\lib\\_varibales.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\sass\\lib\\_varibales.scss",
       "PackagePath": "staticwebassets\\assets\\sass\\lib\\_varibales.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\sass\\sections\\_about.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\sass\\sections\\_about.scss",
       "PackagePath": "staticwebassets\\assets\\sass\\sections\\_about.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\sass\\sections\\_accordion.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\sass\\sections\\_accordion.scss",
       "PackagePath": "staticwebassets\\assets\\sass\\sections\\_accordion.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\sass\\sections\\_blog.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\sass\\sections\\_blog.scss",
       "PackagePath": "staticwebassets\\assets\\sass\\sections\\_blog.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\sass\\sections\\_experts.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\sass\\sections\\_experts.scss",
       "PackagePath": "staticwebassets\\assets\\sass\\sections\\_experts.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\sass\\sections\\_footer.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\sass\\sections\\_footer.scss",
       "PackagePath": "staticwebassets\\assets\\sass\\sections\\_footer.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\sass\\sections\\_header.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\sass\\sections\\_header.scss",
       "PackagePath": "staticwebassets\\assets\\sass\\sections\\_header.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\sass\\sections\\_instagram.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\sass\\sections\\_instagram.scss",
       "PackagePath": "staticwebassets\\assets\\sass\\sections\\_instagram.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\sass\\sections\\_product-list.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\sass\\sections\\_product-list.scss",
       "PackagePath": "staticwebassets\\assets\\sass\\sections\\_product-list.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\sass\\sections\\_product.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\sass\\sections\\_product.scss",
       "PackagePath": "staticwebassets\\assets\\sass\\sections\\_product.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\sass\\sections\\_progress.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\sass\\sections\\_progress.scss",
       "PackagePath": "staticwebassets\\assets\\sass\\sections\\_progress.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\sass\\sections\\_say.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\sass\\sections\\_say.scss",
       "PackagePath": "staticwebassets\\assets\\sass\\sections\\_say.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\sass\\sections\\_shop-list.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\sass\\sections\\_shop-list.scss",
       "PackagePath": "staticwebassets\\assets\\sass\\sections\\_shop-list.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\sass\\sections\\_slider.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\sass\\sections\\_slider.scss",
       "PackagePath": "staticwebassets\\assets\\sass\\sections\\_slider.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\sass\\sections\\_subscribe.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\sass\\sections\\_subscribe.scss",
       "PackagePath": "staticwebassets\\assets\\sass\\sections\\_subscribe.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\sass\\sections\\_tab.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\sass\\sections\\_tab.scss",
       "PackagePath": "staticwebassets\\assets\\sass\\sections\\_tab.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets\\sass\\style.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets\\sass\\style.scss",
       "PackagePath": "staticwebassets\\assets\\sass\\style.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\assets_admin\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\css\\style.css",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\css\\style.css",
       "PackagePath": "staticwebassets\\assets_admin\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\img\\testimonial-1.jpg",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\img\\testimonial-1.jpg",
       "PackagePath": "staticwebassets\\assets_admin\\img\\testimonial-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\img\\testimonial-2.jpg",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\img\\testimonial-2.jpg",
       "PackagePath": "staticwebassets\\assets_admin\\img\\testimonial-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\img\\user.jpg",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\img\\user.jpg",
       "PackagePath": "staticwebassets\\assets_admin\\img\\user.jpg"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\js\\main.js",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\js\\main.js",
       "PackagePath": "staticwebassets\\assets_admin\\js\\main.js"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\lib\\chart\\chart.min.js",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\lib\\chart\\chart.min.js",
       "PackagePath": "staticwebassets\\assets_admin\\lib\\chart\\chart.min.js"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\lib\\easing\\easing.js",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\lib\\easing\\easing.js",
       "PackagePath": "staticwebassets\\assets_admin\\lib\\easing\\easing.js"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\lib\\easing\\easing.min.js",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\lib\\easing\\easing.min.js",
       "PackagePath": "staticwebassets\\assets_admin\\lib\\easing\\easing.min.js"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\lib\\owlcarousel\\LICENSE",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\lib\\owlcarousel\\LICENSE",
       "PackagePath": "staticwebassets\\assets_admin\\lib\\owlcarousel"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\lib\\owlcarousel\\assets\\ajax-loader.gif",
       "PackagePath": "staticwebassets\\assets_admin\\lib\\owlcarousel\\assets\\ajax-loader.gif"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\lib\\owlcarousel\\assets\\owl.carousel.css",
       "PackagePath": "staticwebassets\\assets_admin\\lib\\owlcarousel\\assets\\owl.carousel.css"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\assets_admin\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\lib\\owlcarousel\\assets\\owl.theme.default.css",
       "PackagePath": "staticwebassets\\assets_admin\\lib\\owlcarousel\\assets\\owl.theme.default.css"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
       "PackagePath": "staticwebassets\\assets_admin\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\lib\\owlcarousel\\assets\\owl.theme.green.css",
       "PackagePath": "staticwebassets\\assets_admin\\lib\\owlcarousel\\assets\\owl.theme.green.css"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
       "PackagePath": "staticwebassets\\assets_admin\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\lib\\owlcarousel\\assets\\owl.video.play.png",
       "PackagePath": "staticwebassets\\assets_admin\\lib\\owlcarousel\\assets\\owl.video.play.png"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\lib\\owlcarousel\\owl.carousel.js",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\lib\\owlcarousel\\owl.carousel.js",
       "PackagePath": "staticwebassets\\assets_admin\\lib\\owlcarousel\\owl.carousel.js"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\lib\\owlcarousel\\owl.carousel.min.js",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\lib\\owlcarousel\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\assets_admin\\lib\\owlcarousel\\owl.carousel.min.js"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
       "PackagePath": "staticwebassets\\assets_admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
       "PackagePath": "staticwebassets\\assets_admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\lib\\tempusdominus\\js\\moment-timezone.min.js",
       "PackagePath": "staticwebassets\\assets_admin\\lib\\tempusdominus\\js\\moment-timezone.min.js"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\lib\\tempusdominus\\js\\moment.min.js",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\lib\\tempusdominus\\js\\moment.min.js",
       "PackagePath": "staticwebassets\\assets_admin\\lib\\tempusdominus\\js\\moment.min.js"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
       "PackagePath": "staticwebassets\\assets_admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
       "PackagePath": "staticwebassets\\assets_admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\lib\\waypoints\\links.php",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\lib\\waypoints\\links.php",
       "PackagePath": "staticwebassets\\assets_admin\\lib\\waypoints\\links.php"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\lib\\waypoints\\waypoints.min.js",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\lib\\waypoints\\waypoints.min.js",
       "PackagePath": "staticwebassets\\assets_admin\\lib\\waypoints\\waypoints.min.js"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_accordion.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_accordion.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\_accordion.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_alert.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_alert.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\_alert.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_badge.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_badge.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\_badge.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_breadcrumb.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\_breadcrumb.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_button-group.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_button-group.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\_button-group.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_buttons.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_buttons.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_card.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_card.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\_card.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_carousel.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_carousel.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\_carousel.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_close.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_close.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\_close.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_containers.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_containers.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\_containers.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_dropdown.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\_dropdown.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_forms.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_forms.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\_forms.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_functions.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_functions.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\_functions.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_grid.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_grid.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\_grid.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_helpers.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_helpers.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\_helpers.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_images.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_images.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\_images.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_list-group.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_list-group.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\_list-group.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_mixins.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_mixins.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\_mixins.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_modal.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_modal.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\_modal.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_nav.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_nav.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\_nav.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_navbar.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_navbar.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\_navbar.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_offcanvas.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\_offcanvas.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_pagination.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_pagination.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\_pagination.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_popover.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_popover.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\_popover.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_progress.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_progress.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\_progress.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_reboot.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_reboot.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\_reboot.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_root.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_root.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\_root.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_spinners.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_spinners.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\_spinners.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_tables.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_tables.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\_tables.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_toasts.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_toasts.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\_toasts.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_tooltip.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\_tooltip.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_transitions.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_transitions.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\_transitions.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_type.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_type.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\_type.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_utilities.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_utilities.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\_utilities.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_variables.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\_variables.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\_variables.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\bootstrap.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\bootstrap.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\forms\\_labels.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\forms\\_labels.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\forms\\_validation.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\forms\\_validation.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\helpers\\_position.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\helpers\\_position.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_container.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_container.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_image.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_image.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\utilities\\_api.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\utilities\\_api.scss"
     },
     {
-      "Id": "C:\\Users\\Izzet\\source\\repos\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "Id": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.Net-MVC\\Fiorella\\WebUI\\wwwroot\\assets_admin\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
       "PackagePath": "staticwebassets\\assets_admin\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
     },
     {

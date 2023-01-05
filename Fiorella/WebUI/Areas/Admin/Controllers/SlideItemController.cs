@@ -1,11 +1,15 @@
 ﻿using Core.Entities;
 using DataAccess.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using System.Data;
 using WebUI.Areas.Admin.ViewsModels.Slider;
 using WebUI.Utilites;
 
 namespace WebUI.Areas.Admin.Controllers;
 [Area("Admin")]
+[Authorize(Roles = "Admin")]
+
 public class SlideItemController : Controller
 {
     private readonly ISlideItemRepository _repository;
@@ -44,17 +48,38 @@ public class SlideItemController : Controller
 			ModelState.AddModelError("Image", "Şekilin ölçüsü 100 KB-dan böyükdür");
 			return View(slideVM);
 		}
+
+		if (slideVM.ImageSignature == null)
+		{
+			ModelState.AddModelError("ImageSignature", "Şekilin daxil edilmeyib");
+			return View(slideVM);
+		}
+		if (!slideVM.ImageSignature.CheckFileSize(100))
+		{
+			ModelState.AddModelError("ImageSignature", "Şekilin ölçüsü 100 KB-dan böyükdür");
+			return View(slideVM);
+		}
+
+
 		if (!ModelState.IsValid) { return View(slideVM); }
 		if (!slideVM.Image.CheckFileFormat("image/"))
 		{
-			ModelState.AddModelError("Image", "Seçilən fayl 'Image' faylı deyil");
+			ModelState.AddModelError("ImageSignature", "Seçilən fayl 'Image' faylı deyil");
+			return View(slideVM);
+		}
+
+		if (!slideVM.ImageSignature.CheckFileFormat("image/"))
+		{
+			ModelState.AddModelError("ImageSignature", "Seçilən fayl 'Image' faylı deyil");
 			return View(slideVM);
 		}
 
 		var fileName = String.Empty;
+		var fileName2 = String.Empty;
 		try
 		{
-			fileName = await slideVM.Image.CopyFileAsync(_env.WebRootPath, "assets", "img", "slider");
+			fileName = await slideVM.Image.CopyFileAsync(_env.WebRootPath, "assets", "img");
+			fileName2 = await slideVM.Image.CopyFileAsync(_env.WebRootPath, "assets", "img");
 		}
 		catch (Exception)
 		{
@@ -65,6 +90,7 @@ public class SlideItemController : Controller
 		{
 			Title = slideVM.Title,
 			Image = fileName,
+			ImageSignature = fileName2,
 			Description = slideVM.Description
 		};
 		await _repository.CreateAsync(slide);
@@ -72,4 +98,6 @@ public class SlideItemController : Controller
 		return RedirectToAction(nameof(Index));
 	}
     #endregion
+
+
 }
