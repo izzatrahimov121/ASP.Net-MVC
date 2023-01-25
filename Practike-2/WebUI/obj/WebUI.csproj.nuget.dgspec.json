@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ragim\\OneDrive\\İş masası\\Practike-2\\WebUI\\WebUI.csproj": {}
+    "C:\\Users\\Izzet\\OneDrive\\Desktop\\ASP.Net-MVC\\Practike-2\\WebUI\\WebUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ragim\\OneDrive\\İş masası\\Practike-2\\Core\\Core.csproj": {
+    "C:\\Users\\Izzet\\OneDrive\\Desktop\\ASP.Net-MVC\\Practike-2\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ragim\\OneDrive\\İş masası\\Practike-2\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\Izzet\\OneDrive\\Desktop\\ASP.Net-MVC\\Practike-2\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\ragim\\OneDrive\\İş masası\\Practike-2\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\ragim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ragim\\OneDrive\\İş masası\\Practike-2\\Core\\obj\\",
+        "projectPath": "C:\\Users\\Izzet\\OneDrive\\Desktop\\ASP.Net-MVC\\Practike-2\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\Izzet\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Izzet\\OneDrive\\Desktop\\ASP.Net-MVC\\Practike-2\\Core\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ragim\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Izzet\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -93,21 +89,17 @@
         }
       }
     },
-    "C:\\Users\\ragim\\OneDrive\\İş masası\\Practike-2\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\Izzet\\OneDrive\\Desktop\\ASP.Net-MVC\\Practike-2\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ragim\\OneDrive\\İş masası\\Practike-2\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Izzet\\OneDrive\\Desktop\\ASP.Net-MVC\\Practike-2\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\ragim\\OneDrive\\İş masası\\Practike-2\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\ragim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ragim\\OneDrive\\İş masası\\Practike-2\\DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\Izzet\\OneDrive\\Desktop\\ASP.Net-MVC\\Practike-2\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Izzet\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Izzet\\OneDrive\\Desktop\\ASP.Net-MVC\\Practike-2\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ragim\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Izzet\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -121,8 +113,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ragim\\OneDrive\\İş masası\\Practike-2\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\ragim\\OneDrive\\İş masası\\Practike-2\\Core\\Core.csproj"
+              "C:\\Users\\Izzet\\OneDrive\\Desktop\\ASP.Net-MVC\\Practike-2\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Izzet\\OneDrive\\Desktop\\ASP.Net-MVC\\Practike-2\\Core\\Core.csproj"
               }
             }
           }
@@ -168,21 +160,17 @@
         }
       }
     },
-    "C:\\Users\\ragim\\OneDrive\\İş masası\\Practike-2\\WebUI\\WebUI.csproj": {
+    "C:\\Users\\Izzet\\OneDrive\\Desktop\\ASP.Net-MVC\\Practike-2\\WebUI\\WebUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ragim\\OneDrive\\İş masası\\Practike-2\\WebUI\\WebUI.csproj",
+        "projectUniqueName": "C:\\Users\\Izzet\\OneDrive\\Desktop\\ASP.Net-MVC\\Practike-2\\WebUI\\WebUI.csproj",
         "projectName": "WebUI",
-        "projectPath": "C:\\Users\\ragim\\OneDrive\\İş masası\\Practike-2\\WebUI\\WebUI.csproj",
-        "packagesPath": "C:\\Users\\ragim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ragim\\OneDrive\\İş masası\\Practike-2\\WebUI\\obj\\",
+        "projectPath": "C:\\Users\\Izzet\\OneDrive\\Desktop\\ASP.Net-MVC\\Practike-2\\WebUI\\WebUI.csproj",
+        "packagesPath": "C:\\Users\\Izzet\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Izzet\\OneDrive\\Desktop\\ASP.Net-MVC\\Practike-2\\WebUI\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ragim\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Izzet\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -196,8 +184,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ragim\\OneDrive\\İş masası\\Practike-2\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\ragim\\OneDrive\\İş masası\\Practike-2\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\Izzet\\OneDrive\\Desktop\\ASP.Net-MVC\\Practike-2\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Izzet\\OneDrive\\Desktop\\ASP.Net-MVC\\Practike-2\\DataAccess\\DataAccess.csproj"
               }
             }
           }
