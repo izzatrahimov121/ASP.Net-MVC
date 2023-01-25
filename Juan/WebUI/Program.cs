@@ -11,6 +11,8 @@ builder.Services.AddDbContext<AppDbContext>(opt =>
 {
 	opt.UseSqlServer(constr);
 });
+
+
 builder.Services.AddIdentity<AppUser, IdentityRole>(opt =>
 {
 	opt.Password.RequiredLength = 8;

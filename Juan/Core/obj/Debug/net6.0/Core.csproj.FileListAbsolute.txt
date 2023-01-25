@@ -26,3 +26,17 @@ C:\Users\Izzet\OneDrive\Desktop\ADO.NET_Practice\Juan\Core\obj\Debug\net6.0\refi
 C:\Users\Izzet\OneDrive\Desktop\ADO.NET_Practice\Juan\Core\obj\Debug\net6.0\Core.pdb
 C:\Users\Izzet\OneDrive\Desktop\ADO.NET_Practice\Juan\Core\obj\Debug\net6.0\Core.genruntimeconfig.cache
 C:\Users\Izzet\OneDrive\Desktop\ADO.NET_Practice\Juan\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.Net-MVC\Juan\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\ragim\OneDrive\İş masası\ASP.Net-MVC\Juan\Core\bin\Debug\net6.0\Core.runtimeconfig.json
+C:\Users\ragim\OneDrive\İş masası\ASP.Net-MVC\Juan\Core\bin\Debug\net6.0\Core.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.Net-MVC\Juan\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\ragim\OneDrive\İş masası\ASP.Net-MVC\Juan\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\ragim\OneDrive\İş masası\ASP.Net-MVC\Juan\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ragim\OneDrive\İş masası\ASP.Net-MVC\Juan\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\ragim\OneDrive\İş masası\ASP.Net-MVC\Juan\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\ragim\OneDrive\İş masası\ASP.Net-MVC\Juan\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\ragim\OneDrive\İş masası\ASP.Net-MVC\Juan\Core\obj\Debug\net6.0\Core.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.Net-MVC\Juan\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.Net-MVC\Juan\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\ragim\OneDrive\İş masası\ASP.Net-MVC\Juan\Core\obj\Debug\net6.0\Core.genruntimeconfig.cache
+C:\Users\ragim\OneDrive\İş masası\ASP.Net-MVC\Juan\Core\obj\Debug\net6.0\ref\Core.dll
