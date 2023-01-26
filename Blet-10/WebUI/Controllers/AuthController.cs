@@ -35,6 +35,7 @@ public class AuthController : Controller
 			IsActive = true
 		};
 		var identityResult = await _userManager.CreateAsync(appUser, registerVM.Password);
+
 		if (!identityResult.Succeeded)
 		{
 			foreach (var error in identityResult.Errors)
@@ -56,7 +57,7 @@ public class AuthController : Controller
 	[ValidateAntiForgeryToken]
 	public async Task<IActionResult> Login(LoginViewModel loginViewModel)
 	{
-		if (!ModelState.IsValid) return Content("ModelState");
+		if (!ModelState.IsValid) return View(loginViewModel);
 		var user = await _userManager.FindByNameAsync(loginViewModel.UsernameOrEmail);
 		if (user == null)
 		{
@@ -99,6 +100,45 @@ public class AuthController : Controller
 			return RedirectToAction("Index", "Home");
 		}
 		return BadRequest();
+	}
+	#endregion
+
+	#region ForgotPassword
+	public IActionResult ForgotPassword()
+	{
+		return View();
+	}
+	[HttpPost]
+	[ValidateAntiForgeryToken]
+	public async Task<IActionResult> ForgotPassword(ForgotPasswordViewModel model)
+	{
+		if (model.YourEmail == null)
+		{
+			return View(model);
+		}
+		if (!ModelState.IsValid)
+		{
+			ModelState.AddModelError("", " 'New Password'-la 'Confirm Password' eyni olmalıdır");
+			return View();
+		}
+		var user = await _userManager.FindByEmailAsync(model.YourEmail);
+		if (user == null)
+		{
+			ModelState.AddModelError("", "İstifadəçi tapılmadı. Emailinizi düzgün daxil edib yenidən yoxlayın");
+			return View();
+		}
+		var token = await _userManager.GeneratePasswordResetTokenAsync(user);
+		var result = await _userManager.ResetPasswordAsync(user, token, model.NewPassword);
+		if (!result.Succeeded)
+		{
+			foreach (var error in result.Errors)
+			{
+				ModelState.AddModelError("", error.Description);
+			}
+			return View(model);
+		}
+
+		return RedirectToAction(nameof(Login));
 	}
 	#endregion
 
